@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://ai-radar.iletisimofisi.workers.dev/sitemap.xml
