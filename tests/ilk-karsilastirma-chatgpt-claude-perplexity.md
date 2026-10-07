@@ -60,6 +60,18 @@
 - Editör kararı:
 - Toplam puan:
 
+## Harici referans — Futurepedia
+
+Bu bölüm hands-on test sonucu değildir. Futurepedia araç sayfalarındaki güncel değerlendirmeler, özellik açıklamaları ve kullanıcı geri bildirimleri AI Radar'ın ön değerlendirmesinde kaynak olarak kullanılmıştır.
+
+| Araç | Futurepedia genel | Dikkat çeken değerlendirme |
+|---|---:|---|
+| ChatGPT | 4.4/5 | Accuracy 4.3 · Ease 4.5 · Features 4.8 · Speed 4.5 · Cost 4.1 |
+| Claude | 4.3/5 | Accuracy 4.6 · Ease 4.2 · Features 4.5 · Speed 4.4 · Cost 4.0 |
+| Perplexity | 4.4/5 | Accuracy 4.5 · Ease 4.6 · Features 4.7 · Speed 4.4 · Cost 4.5 |
+
+**Editoryal kullanım:** Futurepedia puanları AI Radar puanı olarak kullanılmayacak. Aynı Türkçe görev gerçek hesaplarda çalıştırılana kadar ana karşılaştırmada sayısal AI Radar skoru boş kalacak.
+
 ## Karar ölçeği
 - **9–10:** Denemeye değer
 - **7–8:** İş görür
